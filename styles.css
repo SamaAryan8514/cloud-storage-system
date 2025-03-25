@@ -59,7 +59,7 @@ border: 1px solid #ccc;
 }
 
 button {
-background-color: hsl(211, 57%, 30%);
+background-color: C;
 color: white;
 border: none;
 padding: 10px 20px;
@@ -70,7 +70,7 @@ transition: background-color 0.3s ease;
 }
 
 button:hover {
-background-color: #218838;
+background-color: hsl(211, 90%, 62%);
 }
 
 .file-list ul {
