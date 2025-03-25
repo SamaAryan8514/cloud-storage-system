@@ -60,17 +60,18 @@ border: 1px solid #ccc;
 
 button {
 background-color: C;
-color: white;
+color:white;
 border: none;
 padding: 10px 20px;
 border-radius: 4px;
 cursor: pointer;
 font-size: 16px;
 transition: background-color 0.3s ease;
+background-color: hsl(211, 72%, 56%);
 }
 
 button:hover {
-background-color: hsl(211, 90%, 62%);
+background-color: hsl(211, 57%, 30%);
 }
 
 .file-list ul {
